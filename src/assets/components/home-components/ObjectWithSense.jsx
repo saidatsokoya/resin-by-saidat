@@ -45,7 +45,7 @@
 //                 </Link>
 //                 <div className="mt-4">
 //                   <h3 className="text-lg font-semibold">{product.name}</h3>
-//                   <p className="text-gray-600">${product.price}</p>
+//                   <p className="text-gray-600">₦N{product.price}</p>
 //                 </div>
 //                 <div className="mt-6 flex flex-col items-center">
 //                   <Link
